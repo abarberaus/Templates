@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Politicize Child
+ Theme URI:    http://crunchpress.net/demo/politicize
+ Description:  Politicize Child Theme
+ Author:       Roy Miller
+ Author URI:   http://example.com
+ Template:     politicize
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  crunchpress-child
+*/
+
+@import url("../politicize/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
